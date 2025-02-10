@@ -18,8 +18,6 @@ I'm a second-year Computer Science student at ESST, passionate about coding, pro
 
 ---
 
----
-
 Feel free to connect and collaborate!
 <!---
 badisso22/badisso22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
