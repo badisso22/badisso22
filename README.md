@@ -1,6 +1,6 @@
 ## Hi, I'm Mehdi
 
-I'm a second-year Computer Science student at ESST, passionate about coding, prolem solving , software development, game development and anything that excite me. I love working on new projects, learning new technologies, and constantly improving my skills.
+I'm a second-year Computer Science student at ESST(Higher Institute of Science and Technology ) based in algeria 🇩🇿 , passionate about coding, problem solving , software development, game development and anything that excite me. I love working on new projects, learning new technologies, and constantly improving my skills.
 
 ---
 
