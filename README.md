@@ -15,6 +15,8 @@ I'm a second-year Computer Science student at ESST(Higher Institute of Science a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Graphic Design](https://img.shields.io/badge/-Graphic%20Design-FF5733?style=for-the-badge)
 ![Illustrator Logo](https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg)
+![Photoshop Logo](https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_Photoshop_CC_icon.svg)
+![InDesign Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg)
 
 
 ---
