@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Mehdi </h1>
+<h1 align="center">Hi, I'm Mehdi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8A020&center=true&vCenter=true&width=600&lines=Software + Engineer;Backend+%7C+Mobile+%7C+Web;Computer+Science+Graduate+(ISIL)+%40+ESST;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8A020&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%7C+Mobile+%7C+Web;Computer+Science+Graduate+(ISIL)+%40+ESST;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,6 @@ I'm a third-year Computer Science student at ESST(Higher Institute of Science an
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Mobile**
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -27,6 +26,9 @@ I'm a third-year Computer Science student at ESST(Higher Institute of Science an
 
 **Web & Databases**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,6 +44,7 @@ I'm a third-year Computer Science student at ESST(Higher Institute of Science an
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
