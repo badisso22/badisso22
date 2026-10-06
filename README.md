@@ -8,8 +8,9 @@
 
 ### About Me
 
-I'm a third-year Computer Science student at ESST(Higher Institute of Science and Technology ) based in algeria 🇩🇿 , passionate about coding, problem solving , software development, game development and anything that excite me. I love working on new projects, learning new technologies, and constantly improving my skills.
-
+Master's student in Cybersecurity and Networks at ESST based in 🇩🇿, with a background in Information Systems and Software Engineering.
+Currently exploring SOC operations, SIEM, networking, Linux, security monitoring, and incident response, while continuing to build software projects and experiment with new technologies.
+I enjoy learning by building, solving problems, and turning ideas into practical projects.
 ---
 
 ### Tech Stack
