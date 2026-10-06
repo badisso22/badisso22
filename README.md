@@ -8,9 +8,10 @@
 
 ### About Me
 
-Master's student in Cybersecurity and Networks at ESST based in 🇩🇿, with a background in Information Systems and Software Engineering.
+Master's student in Cybersecurity and Networks at ESST 🇩🇿, with a background in Information Systems and Software Engineering.
 Currently exploring SOC operations, SIEM, networking, Linux, security monitoring, and incident response, while continuing to build software projects and experiment with new technologies.
 I enjoy learning by building, solving problems, and turning ideas into practical projects.
+
 ---
 
 ### Tech Stack
